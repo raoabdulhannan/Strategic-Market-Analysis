@@ -1,4 +1,4 @@
-# Client-Acquisition-Project
+# Strategic-Market-Analysis
 Identifying High-Potential Anchor Client for clAIrvoyant
 
 This study examines LinkedIn job postings from 2023 and 2024, with a focus on identifying the leading industries and companies with significant hiring activity. The analysis aims to support a talent platform startup in scaling its business by targeting high-demand sectors and selecting a fast-growing company as an anchor client. The report highlights industries with strong hiring needs and identifies Thermo Fisher Scientific as a potential anchor client. Thermo Fisher is a high-growth, financially stable company that currently does not use an Applicant Tracking System (ATS), making it an ideal candidate. The study employs various graphical representations to visualize company dominance and job market trends across industries. These insights provide a clear understanding of the current job market and spotlight industry leaders.

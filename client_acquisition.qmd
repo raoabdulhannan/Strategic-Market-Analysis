@@ -2,7 +2,7 @@
 title: "Identifying High-Potential Anchor Client for clAIrvoyant"
 author: "Rao Abdul Hannan, Akylai Batyrbekova, Shreya Patchala"
 format:
-  pdf:
+  html:
     colorlinks: true
 ---
 
@@ -121,7 +121,7 @@ variable_descriptions %>%
     Description = "Description"
   ) %>%
   tab_options(
-    column_labels.background.color = "lightblue",
+    column_labels.background.color = "steelblue",
     table.width = pct(100),
     column_labels.border.bottom.style = "solid",
     column_labels.border.bottom.width = px(2)
